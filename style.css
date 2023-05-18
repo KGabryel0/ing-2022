@@ -1,0 +1,118 @@
+body{
+    background-color: gray;
+}
+
+/*cabeçalho*/
+header{
+    color: white;
+    background-color: black;
+    border-bottom: 10px solid white;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    text-align: center;
+    margin-top: -18px; 
+}
+
+a{
+    color: red;
+}
+
+.titulo{
+    background-color: white;
+}
+
+/*conteudo*/
+section{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+img{
+    margin: auto;
+    width: 410px;
+}
+
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*cantores*/
+#Fred{
+    color: white;
+    background-color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 15px;
+}
+
+#Roger{
+    color: red;
+    background-color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 15px;
+}
+
+#Elvis{
+    color: white;
+    background-color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 15px;
+}
+
+#Kurt{
+    color: red;
+    background-color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 15px;
+}
+
+#Bob{
+    color: white;
+    background-color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 15px;
+}
+
+/*Foto dos cantores*/
+.Fred{
+    height: 150px;
+    width: 150px;
+    border-radius: 73px;
+    margin-bottom: -23px;
+}
+
+.Roger{
+    height: 150px;
+    width: 150px;
+    border-radius: 73px;
+    margin-bottom: -23px;
+    margin-top: 20px;
+}
+
+.Elvis{
+    height: 150px;
+    width: 150px;
+    border-radius: 73px;
+    margin-bottom: -23px;
+    margin-top: 20px;
+}
+
+.Kurt{
+    height: 150px;
+    width: 150px;
+    border-radius: 73px;
+    margin-bottom: -23px;
+    margin-top: 20px;
+}
+
+.Bob{
+    height: 150px;
+    width: 150px;
+    border-radius: 73px;
+    margin-bottom: -23px;
+    margin-top: 20px;
+}

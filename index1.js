@@ -1,0 +1,2 @@
+window.alert('Esse site foi criado como um trabalho escolar, qualquer pessoa, lugar, acontecimento, é mera coincidência.')
+window.alert('This site was created as a school project, any person, place, event is purely coincidental.')

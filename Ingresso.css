@@ -1,0 +1,27 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+a{
+    color: rgb(7, 182, 7);
+}
+
+h1{
+    background-color: darkviolet;
+}
+
+#a1{
+    height: 345px;
+    width: 385px;
+    background: linear-gradient(rgb(255, 205, 56),rgb(255, 141, 41));
+}
+
+#a2{
+    height: 345px;
+    width: 385px;
+    background: linear-gradient(rgb(255, 73, 73),rgb(84, 22, 144));
+}
